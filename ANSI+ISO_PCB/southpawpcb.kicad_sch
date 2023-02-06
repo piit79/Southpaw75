@@ -2501,7 +2501,7 @@
     (property "Value" "KEYSW" (id 1) (at 266.065 125.095 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "MX_Only:MXOnly-2U-NoLED" (id 2) (at 266.065 122.555 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED" (id 2) (at 266.065 122.555 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 266.065 122.555 0)
@@ -3793,7 +3793,7 @@
     (property "Value" "KEYSW" (id 1) (at 227.965 186.055 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "MX_Only:MXOnly-2U-NoLED" (id 2) (at 227.965 183.515 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED" (id 2) (at 227.965 183.515 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 227.965 183.515 0)
@@ -4325,7 +4325,7 @@
     (property "Value" "KEYSW" (id 1) (at 323.215 201.295 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "MX_Only:MXOnly-2U-NoLED" (id 2) (at 323.215 198.755 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED" (id 2) (at 323.215 198.755 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 323.215 198.755 0)
@@ -4515,7 +4515,7 @@
     (property "Value" "KEYSW" (id 1) (at 247.015 216.535 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "MX_Only:MXOnly-6.25U-NoLED" (id 2) (at 247.015 213.995 0)
+    (property "Footprint" "MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED" (id 2) (at 247.015 213.995 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 247.015 213.995 0)
@@ -5254,7 +5254,7 @@
       (reference "K21") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f0171ad"
-      (reference "K22") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-2U-NoLED")
+      (reference "K22") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f0171b9"
       (reference "K23") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1.5U-NoLED")
@@ -5356,7 +5356,7 @@
       (reference "K55") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f044b17"
-      (reference "K56") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-2U-NoLED")
+      (reference "K56") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f044b23"
       (reference "K57") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1.25U-NoLED")
@@ -5398,7 +5398,7 @@
       (reference "K69") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-2.75U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f044bbf"
-      (reference "K70") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-2U-NoLED")
+      (reference "K70") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f044bcb"
       (reference "K71") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1U-NoLED")
@@ -5413,7 +5413,7 @@
       (reference "K74") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1.25U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f04c747"
-      (reference "K75") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-6.25U-NoLED")
+      (reference "K75") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f04c753"
       (reference "K76") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1.25U-NoLED")
