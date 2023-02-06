@@ -49,7 +49,22 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_clearance|116999000|183237000|ab05fb64-7e72-408e-ab17-6a67b96cda35|0fd0de43-82a4-4747-8c14-5a8c8ea9a3c3",
+        "hole_clearance|117045000|145137000|f66aa937-e67b-4c94-8034-63ed46e755a1|4e14f67d-73c5-41f2-aea7-355098e30307",
+        "hole_clearance|140811000|183237000|3963e242-6007-4cc0-8753-cba7b06e9046|add0980c-873d-4c0d-b041-854cbcc89e84",
+        "hole_clearance|164624000|183237000|f4be5d7b-320f-4c14-aceb-e120c3382dbf|125917d9-f963-44f9-a3d5-11218ef277c3",
+        "hole_clearance|328930250|183237000|7a4ad309-9b5b-4d45-bdce-46531b1e172c|443e920d-e4cf-48f4-90e1-6d80f5e6bd11",
+        "hole_clearance|352742750|183237000|4f9c0bea-b18f-451f-81fd-a6046415c8f4|433f0b35-dd23-4ce9-aeda-5dcb0f4409e7",
+        "hole_clearance|370690000|123669000|e9535c71-28b0-4c15-b5eb-59985fef66d9|9e501b1b-4884-419d-843a-3aea8b5f2535",
+        "hole_clearance|372786000|123547000|5ffe205c-12ec-4e09-91d9-d964dfc1a98c|e9535c71-28b0-4c15-b5eb-59985fef66d9",
+        "hole_clearance|372786000|123547000|7aec9e85-5e8e-45b9-8642-05eae1b01dc3|e9535c71-28b0-4c15-b5eb-59985fef66d9",
+        "hole_clearance|372786000|123547000|8de0b85d-3284-4511-ba93-a85365b8ddfe|e9535c71-28b0-4c15-b5eb-59985fef66d9",
+        "hole_clearance|373008901|123769901|20f41e37-1d92-423d-961c-afd46697772c|e9535c71-28b0-4c15-b5eb-59985fef66d9",
+        "hole_clearance|376555250|183237000|eb552ee5-3240-4cd6-bb6d-26b373075538|039ee8d1-0955-49e8-8f07-06656a2abe42",
+        "hole_clearance|381321250|138152000|4e27b3f7-0dac-4dfb-a378-f5e0966ad19e|eb447384-c7f9-4359-88b2-811e15f7b899",
+        "hole_clearance|383742250|100052000|e4f6d532-fbea-4efa-9f94-7856dd6366c1|ad6d6d3f-d070-436d-a73d-a2a29fef8b10"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -80,8 +95,8 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
