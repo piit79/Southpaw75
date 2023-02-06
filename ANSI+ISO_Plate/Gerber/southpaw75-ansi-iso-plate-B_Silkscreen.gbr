@@ -2,7 +2,7 @@
 %TF.CreationDate,2023-02-06T19:01:29+01:00*%
 %TF.ProjectId,southpaw75-ansi-iso-plate,736f7574-6870-4617-9737-352d616e7369,rev?*%
 %TF.SameCoordinates,Original*%
-%TF.FileFunction,Paste,Top*%
+%TF.FileFunction,Legend,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
